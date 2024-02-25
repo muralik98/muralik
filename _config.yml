@@ -28,7 +28,7 @@ author:
   location         : "India"
   employer         : "Kotak Bank"
   uri              : # URL
-  email            : "muralik1598@gmail.com" 
+  #email            : "muralik1598@gmail.com" 
 
   # Academic websites
 
@@ -205,15 +205,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      
   # _publications
   - scope:
       path: ""
@@ -232,14 +224,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
