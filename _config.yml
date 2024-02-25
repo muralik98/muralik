@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Murali K"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Murali K"
+description              : &description "Data Scientist||DS-AI-ML||QIC||Physics||Maths"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "portfolio_pic.jpg"
+  name             : "Murali K"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Scientist||DS-AI-ML||QIC||Physics||Maths"
+  location         : "India"
+  employer         : "Kotak Bank"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "muralik1598@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
